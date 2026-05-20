@@ -1,0 +1,9 @@
+Circuit: * Z:\mnt\9a3f66c9-6d6d-4e50-b992-ca8f034e1022\Download\Eletronica-de-Potencia\Trabalho2\simulacoes\2.asc
+
+Warning: Multiple definitions of model "irf530" Type: Vdmos1
+Direct Newton iteration for .op point succeeded.
+Singular matrix:  Check node n003
+   Iteration No. 2
+Fatal Error: Singular matrix:  check node n003
+   Iteration No. 2
+

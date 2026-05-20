@@ -1,0 +1,15 @@
+,,,
+,Tabela 1: Parâmetros do MOSFET,,
+,Especificações,IRF520,IRF530
+,Carga máxima do gate (Q_g),max: 16nC,max: 26nC
+,Carga gate-source (Q_gs),max: 4.4nC,"max: 5,5nC"
+,Carga gate-dreno (Q_gd),"max: 7,7nC",max: 11nC
+,Carga dreno-source,,
+,Tensão de threshold V_GS_(th),"min: 2,0V   max: 4,0V","min: 2,0V   max: 4,0V"
+,Capacitância de entrada (C_iss),typ: 360pF,typ: 670pF
+,Capacitância de saída (C_oss),typ: 150pF,typ: 250pF
+,Rise time (t_r),typ: 30ns,typ: 34ns
+,Fall time (t_f),typ: 20ns,typ: 24ns
+,Transcondutância direta (g_fs),min: 2.7S,"min: 5,1S"
+,Resistência interna do gate (R_g),"min: 1,0Ω  max: 5,0Ω","min: 1,0Ω  max: 4,7Ω"
+,Tempo de rec. rev. do diodo intrínseco (t_rr),typ: 110ns max: 260ns,typ: 150ns max: 280ns
